@@ -7,7 +7,7 @@
 package bson
 
 import (
-	"github.com/youtube/vitess/go/bytes2"
+	"github.com/SupportLocal/vitess/go/bytes2"
 )
 
 func EncodeStringArray(buf *bytes2.ChunkedWriter, name string, values []string) {

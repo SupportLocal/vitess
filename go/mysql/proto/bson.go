@@ -7,9 +7,9 @@ package proto
 import (
 	"bytes"
 
-	"github.com/youtube/vitess/go/bson"
-	"github.com/youtube/vitess/go/bytes2"
-	"github.com/youtube/vitess/go/sqltypes"
+	"github.com/SupportLocal/vitess/go/bson"
+	"github.com/SupportLocal/vitess/go/bytes2"
+	"github.com/SupportLocal/vitess/go/sqltypes"
 )
 
 func MarshalFieldBson(field Field, buf *bytes2.ChunkedWriter) {

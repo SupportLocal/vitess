@@ -15,9 +15,9 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/youtube/vitess/go/hack"
-	"github.com/youtube/vitess/go/mysql/proto"
-	"github.com/youtube/vitess/go/sqltypes"
+	"github.com/SupportLocal/vitess/go/hack"
+	"github.com/SupportLocal/vitess/go/mysql/proto"
+	"github.com/SupportLocal/vitess/go/sqltypes"
 )
 
 const (

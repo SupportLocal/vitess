@@ -9,7 +9,7 @@ package bytes2
 
 import (
 	"fmt"
-	"github.com/youtube/vitess/go/hack"
+	"github.com/SupportLocal/vitess/go/hack"
 	"io"
 	"unicode/utf8"
 )

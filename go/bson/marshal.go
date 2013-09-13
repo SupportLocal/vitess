@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/youtube/vitess/go/bytes2"
+	"github.com/SupportLocal/vitess/go/bytes2"
 )
 
 var (
